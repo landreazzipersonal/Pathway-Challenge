@@ -1,0 +1,10 @@
+resources:
+  - namespace.yaml
+  - configmap.yaml
+  - secret.yaml
+  - sample-api-deployment.yaml
+  - sample-api-service.yaml
+  - preprocessing-deployment.yaml
+  - preprocessing-service.yaml
+  - hpa-sample-api.yaml
+  - hpa-preprocessing.yaml
