@@ -26,4 +26,3 @@ k8s/
     kustomization.yaml
   production/
     kustomization.yaml
-``
