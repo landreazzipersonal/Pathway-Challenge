@@ -9,8 +9,7 @@ The manifests are organized using a `base/` layer and environment overlays (`sta
 
 ## Structure
 
-text
-
+```text
 k8s/
   base/
     kustomization.yaml
@@ -27,3 +26,4 @@ k8s/
     kustomization.yaml
   production/
     kustomization.yaml
+``
