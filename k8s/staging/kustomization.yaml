@@ -1,0 +1,12 @@
+namespace: devops-challenge
+
+resources:
+  - ../base
+
+images:
+  - name: sample-api
+    newName: sample-api
+    newTag: staging
+  - name: preprocessing-service
+    newName: preprocessing-service
+    newTag: staging
